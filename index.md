@@ -27,12 +27,6 @@ xxxx
 
 ### DEF项目 
 xxxx
-
-### GHI项目 
-xxxx
-
-### 其他项目
-xxxx
 ---
 
 # 开源项目和作品
@@ -41,8 +35,6 @@ xxxx
 ## 技术文章
 - [一个热爱学习java的人](http://www.itcast.cn/)
 - [最喜欢访问的页面](https://space.bilibili.com/37974444?from=search&seid=8957027040960724086) 
-
-
 
 # 致谢
 感谢您花时间阅读我的简历，期待能有机会和您共事。   
