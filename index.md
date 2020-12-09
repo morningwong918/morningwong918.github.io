@@ -39,10 +39,8 @@ xxxx
 xxxx
 
 ## 技术文章
-（挑选你写作或翻译的技术文章，好的文章可以从侧面证实你的表达和沟通能力，也帮助招聘方更了解你）
-
 - [一个热爱学习java的人](http://www.itcast.cn/)
-- [最喜欢访问的页面](http://www.itcast.cn/) 
+- [最喜欢访问的页面](https://space.bilibili.com/37974444?from=search&seid=8957027040960724086) 
 
 
 
